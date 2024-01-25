@@ -371,7 +371,7 @@ font-weight: 700;
 /* Mobile Phone */
 @media(max-width:450px) {
     html {
-        font-size: 62,5%;
+        font-size: 45%;
     }
 }
 
