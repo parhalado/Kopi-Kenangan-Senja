@@ -373,5 +373,9 @@ font-weight: 700;
     html {
         font-size: 62,5%;
     }
+    .navbar .navbar-extra a{
+    color: white;
+    margin: 0 0.3rem;
+}
 }
 
